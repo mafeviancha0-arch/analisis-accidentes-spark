@@ -10,10 +10,13 @@ Implementar un proceso de análisis batch utilizando PySpark para cargar, transf
 
 Herramientas utilizadas
 
-Ubuntu
-Python
-Apache Spark
-PySpark
+-Ubuntu
+
+-Python
+
+-Apache Spark
+
+-PySpark
 
 Archivo CSV de accidentes de tránsito
 
